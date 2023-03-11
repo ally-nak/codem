@@ -2,7 +2,7 @@
 
 This project uses GPT-3 to automatically identify ICD-10 medical codes for clinical notes.
 
-[![Twitter Bio Generator](./public/screenshot.png)](https://www.twitterbio.com)
+[![Twitter Bio Generator](./public/readmeimage.png)](https://www.twitterbio.com)
 
 ## How it works
 
